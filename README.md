@@ -50,7 +50,7 @@ This project implements a **scalable, version-controlled ML pipeline** using **D
 |----------------|----------------------|
 | **Version Control** | Git, DVC |
 | **Cloud Storage**  | AWS S3 |
-| **ML Pipeline**    | Scikit-learn, Pandas, PyTorch/TensorFlow |
+| **ML Pipeline**    | Scikit-learn, Pandas, TensorFlow |
 | **Experiment Tracking** | DVC Metrics, MLflow |
 | **Orchestration**  | Makefile, Python Scripts (Airflow/Kubeflow-ready) |
 
