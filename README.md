@@ -11,18 +11,6 @@ This project implements a **scalable, version-controlled ML pipeline** using **D
 
 ---
 
-## 📌 Table of Contents
-1. [Key Features](#-key-features)
-2. [Tech Stack](#-tech-stack)
-3. [Workflow Diagram](#-workflow-diagram)
-4. [Setup & Installation](#-setup--installation)
-5. [Running the Pipeline](#-running-the-pipeline)
-6. [Project Structure](#-project-structure)
-7. [Contributing](#-contributing)
-8. [License](#-license)
-
----
-
 ## ✨ Key Features
 ### 1. Data & Model Versioning (DVC)
 - Track datasets, features, and models with Git-like versioning.
