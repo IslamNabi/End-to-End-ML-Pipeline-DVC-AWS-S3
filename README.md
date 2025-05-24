@@ -39,8 +39,7 @@ This project implements a **scalable, version-controlled ML pipeline** using **D
 
 ### 4. Experiment Tracking
 - Log metrics, parameters, and artifacts for comparison.
-- Supports **MLflow** (optional) for advanced tracking.
-
+  
 ### 5. Scalable Orchestration
 - Designed to integrate with **Airflow, Kubeflow, or GitHub Actions** for CI/CD.
 
@@ -51,8 +50,8 @@ This project implements a **scalable, version-controlled ML pipeline** using **D
 |----------------|----------------------|
 | **Version Control** | Git, DVC |
 | **Cloud Storage**  | AWS S3 |
-| **ML Pipeline**    | Scikit-learn, Pandas, PyTorch/TensorFlow (optional) |
-| **Experiment Tracking** | DVC Metrics, MLflow (optional) |
+| **ML Pipeline**    | Scikit-learn, Pandas, PyTorch/TensorFlow |
+| **Experiment Tracking** | DVC Metrics, MLflow |
 | **Orchestration**  | Makefile, Python Scripts (Airflow/Kubeflow-ready) |
 
 ---
